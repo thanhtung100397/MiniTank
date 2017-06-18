@@ -1,0 +1,179 @@
+<items>
+    <id name="Basic Ammunition" iconId="1">
+        <weapon id="1"
+            name="Round"
+            description="The basic weapon for tank" />
+        <weapon id="2"
+            name="Plasma"
+            description="Plasma generator is our new invention. Equal damage but faster firing rate than round
+
+Unlock require ROUNDS RESEARCH level 1" />
+        <weapon id="3"
+            name="Double Round"
+            description="In case of collision of double round with a regular round or plasma - only one round of two will be destroyed, the second one moves on
+
+Unlock require ROUNDS RESEARCH level 2" />
+        <weapon id="4"
+            name="Double Plasma"
+            level="0"
+            value="55"
+            count="10"
+            description="Unlock require ROUNDS RESEARCH level 3"
+            reloadTime="1"
+            damage="2"
+            explosion="-1"/>
+        <weapon id="5"
+            name="High-explosive Round"
+            level="0"
+            value="70"
+            count="10"
+            description="High-explosive round is one of the most powerful round. Cause high damage to your enemies machine with big explosion
+
+Unlock require ROUNDS RESEARCH level 4"
+            reloadTime="1.2"
+            damage="3"
+            explosion="-1"/>
+        <weapon id="6"
+            name="Armor-piercing Round"
+            description="Not explode as High-explosive Round, but its damage is very terrible, even the heaviest armor can be destroy. It is a deadly weapon on battlefield
+
+Unlock require ROUNDS RESEARCH level 5" />
+    </id>
+
+    <id name="Additional Ammunition" iconId="7">
+        <weapon id="7"
+            name="Warhead"
+            description="Warhead does NOT fly OVER the walls, NOT destroy weak stone wall and anti-tank hedgehogs. The damage is decreasing with every cell from the epicenter by 1, destroy all mines and support items within its explosion are
+
+Unlimited range of fire.
+
+Unlock require MISSILE RESEARCH level 1" />
+        <weapon id="8"
+            name="Artillery"
+            description="This weapon can fly OVER any walls or any obstacles, the damage is decreasing with every cell from the epicenter by 1, destroy all mines and support items within its explosion are.
+
+Please notice about range of fire: 4 cell.
+
+Unlock require ARTILLERY RESEARCH level 1" />
+        <weapon id="9"
+            name="Mine TMD-5"
+            description="Explode and damage when enemies machine running over, but it's safe for your allies.
+
+Unlock require MINE RESEARCH level 1" />
+        <weapon id="10"
+        name="Mine TMD-9"
+        description="Powerful than Mine TMD-5. Explode and damage when enemies machine running over, but it's safe for your allies.
+
+Unlock require MINE RESEARCH level 1" />
+        <weapon id="11"
+            name="Dynamite x70"
+            description="Explode after 5 seconds after being planted. The damage is decreasing with every cell from the epicenter by 1, destroy all mines and support items within its explosion are.
+
+Can destroy weak stone walls and anti-tank hedgehogs
+
+Unlock require DYNAMITE RESEARCH level 1" />
+        <weapon id="12"
+            name="Dynamite x100"
+            description="Explode after 5 seconds after being planted. The damage is decreasing with every cell from the epicenter by 1, destroy all mines and support items within its explosion are.
+
+Can destroy weak stone walls and anti-tank hedgehogs
+
+Unlock require DYNAMITE RESEARCH level 2" />
+        <weapon id="13"
+            name="Dynamite x160"
+            description="Bigger explosion and damage, explode after 5 seconds after being planted. The damage is decreasing with every cell from the epicenter by 1, destroy all mines and support items within its explosion are.
+
+Can destroy weak stone walls and anti-tank hedgehogs
+
+Unlock require DYNAMITE RESEARCH level 3" />
+        <weapon id="14"
+            name="Homing Missile"
+            description="Unlimited range of fire. It will controlled the same way as the tank, explode when hit 'fire' button. It flies OVER enemies tank, turret but NOT OVER walls, destroy all mines and support items within its explosion are.
+
+Can destroy all id of stone walls (gray and yellow) and anti-tank hedgehogs, but NOT steel walls (they are invincible)
+
+Unlock require MISSILE RESEARCH level 2" />
+        <weapon id="15"
+            name="Air Strike"
+            description="Call a bomber aircraft to attack enemies, 5 explosionGroup is on the flight path of bomber aircraft. The damage is decreasing with every cell from the epicenter by 1, destroy all mines and support items within its explosion are.
+
+Can destroy weak stone walls and anti-tank hedgehogs
+
+Unlock require AIR ATTACK RESEARCH level 1 and RADAR on your tank" />
+    </id>
+
+    <id name="Allies" iconId="17">
+        <weapon id="17"
+            name="Ally Tank"
+            description="While in the game you can call for back up: an ally tank will appear at your base and follow you in a short distance.
+
+Ally Tank HP: 8
+
+Can be repair in workshop
+
+The Allies Tank uses id of round equal THE BEST ROUND you had in your Tank. If you do not have rounds, it will use regular round
+
+Unlock require ALLIES TANK RESEARCH level 1" />
+    </id>
+
+    <id name="Defence" iconId="25">
+        <weapon id="24"
+            name="Temporary Armor"
+            description="Every purchase gives your tank + 1HP, when your tank is destroy, it WILL be lost. The maximum is 4 level
+
+Unlock require ARMOR RESEARCH level 1" />
+        <weapon id="25"
+            name="Permanent Armor"
+            description="Every purchase gives your tank + 1HP, when your tank is destroy, it WILL NOT be lost. The maximum is 4 level
+
+Unlock require ARMOR RESEARCH level 2" />
+        <weapon id="16"
+            name="Force Field"
+            description="Every purchase gives your tank + 1 (blue) HP, when your tank is destroy, it WILL be lost. The maximum is 7 level
+
+Force field regenerates itself (the more heal of your tank, the faster it regenerates)
+
+Activate during the game by select it in your weapon list
+
+Unlock require FORCE FIELD RESEARCH level 2" />
+    </id>
+
+    <id name="Repair" iconId="20">
+        <weapon id="20"
+            name="Repair Kit"
+            description="Restore 100% HP to any tank with is selected (player, allies and enemies tank), NOT include force field
+
+Activate during the game by select it in your weapon list or 'fast repair' button" />
+        <weapon id="26"
+        name="Tank Repair"
+        description="Restore 100% HP to your tank. Cheaper than repair kit, but you must go back to workshop to perform this action.
+
+The cost of repair is 6$ for each 1HP lost" />
+        <weapon id="27"
+            name="Ally Repair"
+            description="Restore 100% HP to all your allies tank. Cheaper than repair kit, but you must go back to workshop to perform this action.
+
+The cost of repair is 5$ for each 1HP lost" />
+    </id>
+
+    <id name="Other" iconId="22">
+        <weapon id="22"
+            name="Radar"
+            description="Needed to be able to call up an air striker" />
+        <weapon id="28"
+            name="Thermovision"
+            description="Mine detection range +1 cell.  The maximum is 2 level" />
+        <weapon id="23"
+            name="Upgrade Tank"
+            description="Upgrade your tank to heavy id (change model, increase round capacity and armor)" />
+        <weapon id="19"
+            name="Boost Speed"
+            description="Boost speed of your tank by 150% for 30 seconds, can NOT stock" />
+        <weapon id="18"
+            name="Time Freeze"
+            description="Freeze enemies tank and turret (they can not move and attack) for 30 seconds" />
+        <weapon id="21"
+            name="Extra Life"
+            description="You gain 1 life" />
+    </id>
+</items>

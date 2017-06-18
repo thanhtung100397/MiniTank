@@ -1,0 +1,89 @@
+
+heal_bar_green.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 1, 7
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 0
+1
+  rotate: false
+  xy: 1, 1
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 1
+10
+  rotate: false
+  xy: 27, 7
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 10
+11
+  rotate: false
+  xy: 27, 1
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 11
+2
+  rotate: false
+  xy: 53, 7
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 2
+3
+  rotate: false
+  xy: 53, 1
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 3
+4
+  rotate: false
+  xy: 79, 7
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 4
+5
+  rotate: false
+  xy: 79, 1
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 5
+6
+  rotate: false
+  xy: 105, 7
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 6
+7
+  rotate: false
+  xy: 105, 1
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 7
+8
+  rotate: false
+  xy: 131, 7
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 8
+9
+  rotate: false
+  xy: 131, 1
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: 9

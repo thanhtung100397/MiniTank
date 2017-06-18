@@ -1,0 +1,48 @@
+<items>
+    <item name="Mission 1: Getting Started!"
+          hint="Use touchpad to move your tank
+Press back button to back up your tank
+Hit bullet button to fire bullet
+Good luck, Commander!"
+          objective="Objective: Find the yellow flag"/>
+
+    <item name="Mission 2: The Walls"
+          hint="Press swap button to switch your current weapon
+Touch to your current weapon icon to open your weapon inventory
+We sent an ally tank to support you
+Good luck, Commander!"
+          objective="Objective: Eliminate 6 enemy tanks"/>
+
+    <item name="Mission 3: Hourglass!"
+        hint=""
+        objective="Objective: Eliminate all enemy tanks and their turret. By the way, the turret is much more sensitive to explosive"/>
+
+    <item name="Mission 4: Redemption: the Beginning"
+        hint="At this level we should rescue our former base, occupied by the evil enemies
+By the way, if you couch sneak up on turrets (guns) - it would be easier to destroy them."
+        objective="Objective: Find our captured radar; wipe out all of the evil enemies and their turrets"/>
+
+    <item name="Mission 5: Redemption: the Final"
+        hint="In the last mission you will defence your HQ against your foes, they want to take the captured HQ over again from us. Don't let them achieved their purpose"
+        objective="Objective: Protect the captured HQ until enemies stop attacking, if it's destroyed, we will lose this mission"/>
+
+    <item name="Mission 6: Rooms"
+        hint="To complete this mission you will need lots of rounds. Telling you like it is!"
+        objective="Objective: Find and capture the RED flag"/>
+
+    <item name="Mission 7: Enemies cellars"
+        hint="We are raiding enemies base. At this level you are getting support from two ally tank. Be careful, enemies put mines everywhere to blow up any intruder"
+        objective="Objective: Find and steal 3 blue flags on enemies base"/>
+
+    <item name="Mission 8: Alone"
+        hint="The enemies are preparing to attack our base, you are alone, will you repulse all of them?
+
+Oh, this map has an secret, if you can solve it, you will get "
+        objective="Protect our Radar and be the last survivor"/>
+
+    <item name="Mission 9: Get out alive"
+        hint="At this level we get technical support from the air which will help pave the way to our radar. Use ble flag to call for the support
+
+Be careful with the nuclear stuff, the way they explode - it's harmful!"
+        objective="Find our radar and protect it, until there are no enemies"/>
+</items>

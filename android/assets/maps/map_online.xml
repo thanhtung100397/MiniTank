@@ -1,0 +1,11 @@
+<items>
+    <dayMode type="0" />
+
+    <player>
+        <spawnLocation i="1" j="1" />
+        <spawnLocation i="2" j="1" />
+        <!--<spawnLocation i="1" j="13" />-->
+        <spawnLocation i="18" j="13" />
+        <spawnLocation i="18" j="1" />
+    </player>
+</items>

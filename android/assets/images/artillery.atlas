@@ -1,0 +1,40 @@
+
+artillery.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 1, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 0
+1
+  rotate: false
+  xy: 27, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+2
+  rotate: false
+  xy: 53, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+3
+  rotate: false
+  xy: 79, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+4
+  rotate: false
+  xy: 105, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 4

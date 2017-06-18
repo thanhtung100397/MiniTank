@@ -1,0 +1,123 @@
+<items>
+    <dayMode type="1"/>
+
+    <player>
+        <spawnLocation i="1" j="6"/>
+
+    </player>
+
+    <item i="8" j="18" type="22" enableLight="1"/>
+    <item i="2" j="16" type="33" message="Normal Round x 30 rounds" enableLight="1">
+        <weaponBox count="30" type="1" />
+    </item>
+    <item i="3" j="16" type="21" enableLight="1"/>
+
+    <allies>
+        <round>
+            <spawnLocation i="1" j="6" maxSpawnCount="1" isSupporter="1" enableLight="0">
+                <warMachine>
+                    <machine type="0" hp="4" speed="1.0" range="15" money="0" count="1">
+                        <bullet bulletType="1" reloadTime="1.2" damage="1"/>
+                    </machine>
+                </warMachine>
+            </spawnLocation>
+        </round>
+    </allies>
+
+    <enemies>
+        <round>
+            <spawnLocation i="15" j="3" maxSpawnCount="1" enableLight="1">
+                <area>
+                    <location i="14" j="1" />
+                    <location i="15" j="1" />
+                    <location i="16" j="1" />
+                    <location i="17" j="1" />
+                    <location i="13" j="2" />
+                    <location i="14" j="2" />
+                    <location i="15" j="2" />
+                    <location i="16" j="2" />
+                    <location i="17" j="2" />
+                    <location i="13" j="3" />
+                    <location i="14" j="3" />
+                    <location i="15" j="3" />
+                    <location i="16" j="3" />
+                    <location i="17" j="3" />
+                    <location i="13" j="4" />
+                    <location i="14" j="4" />
+                    <location i="15" j="4" />
+                    <location i="16" j="4" />
+                    <location i="17" j="4" />
+                    <location i="13" j="5" />
+                    <location i="14" j="5" />
+                    <location i="15" j="5" />
+                    <location i="16" j="5" />
+                    <location i="17" j="5" />
+                    <location i="13" j="6" />
+                    <location i="14" j="6" />
+                    <location i="15" j="6" />
+                    <location i="16" j="6" />
+                    <location i="17" j="6" />
+                    <location i="18" j="6" />
+                    <location i="13" j="7" />
+                    <location i="14" j="7" />
+                    <location i="15" j="7" />
+                    <location i="16" j="7" />
+                    <location i="17" j="7" />
+                    <location i="13" j="8" />
+                </area>
+                <warMachine>
+                    <machine type="0" hp="3" speed="0.8" range="11" money="15" count="3">
+                        <bullet bulletType="1" reloadTime="1.4" damage="1"/>
+                    </machine>
+                </warMachine>
+            </spawnLocation>
+        </round>
+        <round>
+            <spawnLocation i="15" j="15" maxSpawnCount="1" enableLight="1">
+                <area>
+                    <location i="13" j="10" />
+                    <location i="14" j="10" />
+                    <location i="14" j="11" />
+                    <location i="15" j="11" />
+                    <location i="16" j="11" />
+                    <location i="17" j="11" />
+                    <location i="13" j="12" />
+                    <location i="14" j="12" />
+                    <location i="15" j="12" />
+                    <location i="16" j="12" />
+                    <location i="17" j="12" />
+                    <location i="13" j="13" />
+                    <location i="14" j="13" />
+                    <location i="15" j="13" />
+                    <location i="16" j="13" />
+                    <location i="17" j="13" />
+                    <location i="13" j="14" />
+                    <location i="14" j="14" />
+                    <location i="15" j="14" />
+                    <location i="16" j="14" />
+                    <location i="17" j="14" />
+                    <location i="13" j="15" />
+                    <location i="14" j="15" />
+                    <location i="15" j="15" />
+                    <location i="16" j="15" />
+                    <location i="17" j="15" />
+                    <location i="14" j="16" />
+                    <location i="15" j="16" />
+                    <location i="16" j="16" />
+                    <location i="17" j="16" />
+                    <location i="14" j="17" />
+                    <location i="15" j="17" />
+                    <location i="16" j="17" />
+                    <location i="17" j="17" />
+                </area>
+                <warMachine>
+                    <machine type="0" hp="3" speed="0.8" range="11" money="15" count="3">
+                        <bullet bulletType="1" reloadTime="1.4" damage="1"/>
+                    </machine>
+                </warMachine>
+            </spawnLocation>
+        </round>
+    </enemies>
+
+    <win type="1" option="0"/>
+</items>

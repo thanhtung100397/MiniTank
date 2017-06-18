@@ -1,0 +1,124 @@
+
+small_normal_exp.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 1, 103
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 0
+1
+  rotate: false
+  xy: 1, 86
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 1
+10
+  rotate: false
+  xy: 18, 103
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 10
+11
+  rotate: false
+  xy: 1, 69
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 11
+12
+  rotate: false
+  xy: 18, 86
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 12
+13
+  rotate: false
+  xy: 35, 103
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 13
+14
+  rotate: false
+  xy: 1, 52
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 14
+15
+  rotate: false
+  xy: 18, 69
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 15
+16
+  rotate: false
+  xy: 35, 86
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 16
+2
+  rotate: false
+  xy: 1, 35
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 2
+3
+  rotate: false
+  xy: 18, 52
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 3
+4
+  rotate: false
+  xy: 35, 69
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 4
+5
+  rotate: false
+  xy: 1, 18
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 5
+6
+  rotate: false
+  xy: 18, 35
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 6
+7
+  rotate: false
+  xy: 35, 52
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 7
+8
+  rotate: false
+  xy: 1, 1
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 8
+9
+  rotate: false
+  xy: 18, 18
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 9

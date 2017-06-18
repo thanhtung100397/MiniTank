@@ -1,0 +1,40 @@
+
+rings.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 1, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: 0
+1
+  rotate: false
+  xy: 31, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: 1
+2
+  rotate: false
+  xy: 61, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: 2
+3
+  rotate: false
+  xy: 91, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: 3
+4
+  rotate: false
+  xy: 121, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: 4

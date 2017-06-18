@@ -1,0 +1,54 @@
+<items>
+    <dayMode type="0"/>
+
+    <player>
+        <spawnLocation i="11" j="18" />
+    </player>
+
+    <item i="5" j="8" type="20" enableLight="1"/>
+
+    <remote>
+        <explosion type="1" i="6" j="2" damage="10" level="1">
+            <location i="7" j="8" />
+            <location i="8" j="8" />
+        </explosion>
+
+        <explosion type="1" i="4" j="5" damage="10" level="1">
+            <location i="7" j="9" />
+            <location i="8" j="9" />
+        </explosion>
+    </remote>
+
+    <enemies>
+        <round>
+            <spawnLocation i="2" j="2" maxSpawnCount="1" enableLight="1">
+                <area>
+                    <location i="1" j="1" />
+                    <location i="1" j="2" />
+                    <location i="1" j="3" />
+                    <location i="2" j="1" />
+                    <location i="2" j="2" />
+                    <location i="2" j="3" />
+                    <location i="3" j="1" />
+                    <location i="3" j="2" />
+                    <location i="3" j="3" />
+                    <location i="4" j="1" />
+                    <location i="4" j="2" />
+                    <location i="4" j="3" />
+                    <location i="5" j="1" />
+                    <location i="5" j="2" />
+                    <location i="5" j="3" />
+                </area>
+                <warMachine>
+                    <machine type="0" hp="3" speed="0.8" range="11" money="15" count="5">
+                        <bullet bulletType="1" reloadTime="1.4" damage="1"/>
+                    </machine>
+                </warMachine>
+            </spawnLocation>
+        </round>
+    </enemies>
+
+    <win type="0" option="0">
+        <flag i="3" j="18" type="2" option="0"/>
+    </win>
+</items>

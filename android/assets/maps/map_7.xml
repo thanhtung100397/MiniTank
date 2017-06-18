@@ -1,0 +1,205 @@
+<items>
+    <dayMode type="0" />
+
+    <player>
+        <spawnLocation i="1" j="1" />
+    </player>
+
+    <item i="4" j="1" type="20" enableLight="1"/>
+    <item i="8" j="19" type="20" enableLight="1"/>
+    <item i="11" j="5" message="Dynamite X70 x 3" type="33" enableLight="1">
+        <weaponBox count="3" type="11" />
+    </item>
+    <item i="14" j="2" type="32" enableLight="0"/>
+    <item i="13" j="2" type="31" enableLight="0"/>
+    <item i="14" j="3" type="31" enableLight="1"/>
+    <item i="13" j="3" type="31" enableLight="0"/>
+    <item i="1" j="25" type="31" enableLight="1"/>
+    <item i="0" j="25" type="30" enableLight="1"/>
+
+    <allies>
+        <round>
+            <spawnLocation i="1" j="1" maxSpawnCount="1" isSupporter="1" enableLight="0">
+                <warMachine>
+                    <machine type="0" hp="4" speed="0.8" range="11" money="0" count="2">
+                        <bullet bulletType="1" reloadTime="1.3" damage="1"/>
+                    </machine>
+                    <machine type="1" hp="7" speed="0.8" range="11" money="0" count="1">
+                        <bullet bulletType="3" reloadTime="1.3" damage="1"/>
+                    </machine>
+                </warMachine>
+            </spawnLocation>
+        </round>
+    </allies>
+
+    <enemies>
+        <conditionRound>
+            <location i="3" j="13" />
+            <location i="4" j="19" />
+            <spawnLocation i="1" j="15" maxSpawnCount="1" enableLight="1">
+                <area>
+                    <location i="0" j="14" />
+                    <location i="1" j="14" />
+                    <location i="2" j="14" />
+                    <location i="3" j="14" />
+                    <location i="0" j="15" />
+                    <location i="1" j="15" />
+                    <location i="2" j="15" />
+                    <location i="3" j="15" />
+                    <location i="0" j="16" />
+                    <location i="1" j="16" />
+                    <location i="2" j="16" />
+                    <location i="3" j="16" />
+                    <location i="0" j="17" />
+                    <location i="1" j="17" />
+                    <location i="2" j="17" />
+                    <location i="3" j="17" />
+                    <location i="0" j="18" />
+                    <location i="1" j="18" />
+                    <location i="2" j="18" />
+                    <location i="3" j="18" />
+                </area>
+                <warMachine>
+                    <machine count="4" hp="3" range="11" speed="0.8" type="0" money="15">
+                        <bullet bulletType="1" damage="1" reloadTime="1.3" />
+                    </machine>
+                </warMachine>
+            </spawnLocation>
+
+            <spawnLocation i="1" j="17" maxSpawnCount="1" enableLight="1">
+                <area>
+                    <location i="0" j="14" />
+                    <location i="1" j="14" />
+                    <location i="2" j="14" />
+                    <location i="3" j="14" />
+                    <location i="0" j="15" />
+                    <location i="1" j="15" />
+                    <location i="2" j="15" />
+                    <location i="3" j="15" />
+                    <location i="0" j="16" />
+                    <location i="1" j="16" />
+                    <location i="2" j="16" />
+                    <location i="3" j="16" />
+                    <location i="0" j="17" />
+                    <location i="1" j="17" />
+                    <location i="2" j="17" />
+                    <location i="3" j="17" />
+                    <location i="0" j="18" />
+                    <location i="1" j="18" />
+                    <location i="2" j="18" />
+                    <location i="3" j="18" />
+                </area>
+                <warMachine>
+                    <machine count="4" hp="3" range="11" speed="0.8" type="0" money="15">
+                        <bullet bulletType="1" damage="1" reloadTime="1.3" />
+                    </machine>
+                </warMachine>
+            </spawnLocation>
+        </conditionRound>
+
+        <conditionRound>
+            <location i="14" j="16" />
+            <location i="15" j="10" />
+            <spawnLocation i="16" j="13" maxSpawnCount="2" enableLight="1">
+                <area>
+                    <location i="15" j="11" />
+                    <location i="16" j="11" />
+                    <location i="17" j="11" />
+                    <location i="15" j="12" />
+                    <location i="16" j="12" />
+                    <location i="17" j="12" />
+                    <location i="15" j="13" />
+                    <location i="16" j="13" />
+                    <location i="17" j="13" />
+                    <location i="15" j="14" />
+                    <location i="16" j="14" />
+                    <location i="17" j="14" />
+                    <location i="15" j="15" />
+                    <location i="16" j="15" />
+                    <location i="17" j="15" />
+                    <location i="15" j="16" />
+                    <location i="16" j="16" />
+                    <location i="17" j="16" />
+                </area>
+                <warMachine>
+                    <machine count="5" hp="3" range="11" speed="0.8" type="0" money="15">
+                        <bullet bulletType="1" damage="1" reloadTime="1.3" />
+                    </machine>
+                </warMachine>
+            </spawnLocation>
+        </conditionRound>
+
+        <conditionRound>
+            <location i="6" j="20" />
+            <spawnLocation i="1" j="21" maxSpawnCount="2" enableLight="1">
+                <area>
+                    <location i="0" j="20" />
+                    <location i="1" j="20" />
+                    <location i="2" j="20" />
+                    <location i="3" j="20" />
+                    <location i="0" j="21" />
+                    <location i="1" j="21" />
+                    <location i="2" j="21" />
+                    <location i="3" j="21" />
+                    <location i="0" j="22" />
+                    <location i="1" j="22" />
+                    <location i="2" j="22" />
+                    <location i="3" j="22" />
+                    <location i="4" j="22" />
+                    <location i="5" j="22" />
+                </area>
+                <warMachine>
+                    <machine count="4" hp="3" range="11" speed="0.8" type="0" money="15">
+                        <bullet bulletType="1" damage="1" reloadTime="1.3" />
+                    </machine>
+                </warMachine>
+            </spawnLocation>
+        </conditionRound>
+
+        <turrets>
+            <machine hp="6" i="7" j="5" orient="-1" range="6" type="1" money="40">
+                <bullet bulletType="1" damage="1" reloadTime="1.2" />
+            </machine>
+
+            <machine hp="6" i="8" j="1" orient="-1" range="4" type="1">
+                <bullet bulletType="1" damage="1" reloadTime="1.2" />
+            </machine>
+
+            <machine hp="6" i="1" j="10" orient="12" range="6" type="1" money="40">
+                <bullet bulletType="2" damage="1" reloadTime="0.8" />
+            </machine>
+
+            <machine hp="6" i="1" j="12" orient="12" range="6" type="1" money="40">
+                <bullet bulletType="2" damage="1" reloadTime="0.8" />
+            </machine>
+
+            <machine hp="6" i="10" j="12" orient="-1" range="4" type="1" money="40">
+                <bullet bulletType="1" damage="1" reloadTime="1.2" />
+            </machine>
+
+            <machine hp="6" i="10" j="16" orient="-1" range="6" type="1" money="40">
+                <bullet bulletType="1" damage="1" reloadTime="1.2" />
+            </machine>
+
+            <machine hp="6" i="4" j="24" orient="-1" range="7" type="1" money="40">
+                <bullet bulletType="1" damage="1" reloadTime="1.2" />
+            </machine>
+
+            <machine hp="6" i="10" j="21" orient="-1" range="7" type="1" money="40">
+                <bullet bulletType="1" damage="1" reloadTime="1.0" />
+            </machine>
+        </turrets>
+
+        <mine i="2" j="7" type="9" damage="5"/>
+        <mine i="3" j="12" type="9" damage="5"/>
+        <mine i="6" j="11" type="9" damage="5"/>
+        <mine i="6" j="12" type="9" damage="5"/>
+        <mine i="17" j="16" type="9" damage="5"/>
+    </enemies>
+
+    <win type="0" option="0">
+        <flag i="7" j="0" type="1" />
+        <flag i="11" j="9" type="1" />
+        <flag i="10" j="19" type="1" />
+    </win>
+</items>

@@ -1,0 +1,117 @@
+
+siege_tank.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 1, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 0
+1
+  rotate: false
+  xy: 27, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+10
+  rotate: false
+  xy: 53, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 10
+11
+  rotate: false
+  xy: 79, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 11
+12
+  rotate: false
+  xy: 105, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 12
+13
+  rotate: false
+  xy: 131, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 13
+14
+  rotate: false
+  xy: 157, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 14
+15
+  rotate: false
+  xy: 183, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 15
+2
+  rotate: false
+  xy: 209, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+3
+  rotate: false
+  xy: 235, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+4
+  rotate: false
+  xy: 261, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 4
+5
+  rotate: false
+  xy: 287, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 5
+6
+  rotate: false
+  xy: 313, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 6
+7
+  rotate: false
+  xy: 339, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 7
+8
+  rotate: false
+  xy: 365, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 8
+9
+  rotate: false
+  xy: 391, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 9

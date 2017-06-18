@@ -1,0 +1,89 @@
+
+big_plasma_exp.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 1, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 0
+1
+  rotate: false
+  xy: 43, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+10
+  rotate: false
+  xy: 85, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 10
+11
+  rotate: false
+  xy: 127, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 11
+2
+  rotate: false
+  xy: 169, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+3
+  rotate: false
+  xy: 211, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+4
+  rotate: false
+  xy: 253, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+5
+  rotate: false
+  xy: 295, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 5
+6
+  rotate: false
+  xy: 337, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 6
+7
+  rotate: false
+  xy: 379, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 7
+8
+  rotate: false
+  xy: 421, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 8
+9
+  rotate: false
+  xy: 463, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 9
