@@ -1,5 +1,5 @@
 # MiniTank
-My first Libgdx game, it's base on a J2ME game. I'm just remake it to play on Android devices
+My first Libgdx game, it's base on a J2ME game. I'm just remake it to play on Android devices<br/>
 APK: https://drive.google.com/open?id=0B3j_vw_l37Pjd1BCcHJ0RUx4cUE
 
 ![alt text](https://drive.google.com/uc?id=1eTz-ZqvEuuTcME9kL1Xrkjq3F93vChAk)
