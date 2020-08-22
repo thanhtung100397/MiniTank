@@ -24,8 +24,6 @@ import com.tankzor.game.common_value.MissionRecorder;
 import com.tankzor.game.common_value.PlayerProfile;
 import com.tankzor.game.main.Tankzor;
 
-import javafx.scene.Parent;
-
 /**
  * Created by Admin on 5/9/2017.
  */
